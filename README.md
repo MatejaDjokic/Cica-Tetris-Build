@@ -1,4 +1,4 @@
-# Cica-Tetris-Build
+# Cica Tetris 2023
 ### Installation and Application Running
 - Click on the green button that says "Code"
 - At the bottom you will see "Download ZIP"
