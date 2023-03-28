@@ -1,5 +1,5 @@
 # Cica-Tetris-Build
-## Installation and Application Running
+### Installation and Application Running
 - Click on the green button that says "<> Code"
 - At the bottom you will see "Download ZIP"
 - Click on that and open your "Downloads" folder
