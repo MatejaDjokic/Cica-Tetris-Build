@@ -1,5 +1,5 @@
 # Cica Tetris 2023
-### Installation and Application Running
+### Installation and Running
 - Click on the green button that says "Code"
 - At the bottom you will see "Download ZIP"
 - Click on that and open your "Downloads" folder
